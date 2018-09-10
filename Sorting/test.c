@@ -4,4 +4,5 @@
 int main()
 {
 	printf("\nHello");
+	printf("\nThanh NC");
 }
